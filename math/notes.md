@@ -1,6 +1,6 @@
 注意事项:
 1. 源代码可以看到 Latex 语法.    
-2. 使用chrome安装 MathJax plugin for github 可以看到选然后的内容.  
+2. 使用chrome安装 MathJax plugin for github 可以看到渲染后的内容.  
 
 <br />
 <br />
